@@ -1,4 +1,4 @@
-# Best-Subset-Selection--regression
+# Toyota Corola Sales - Best-Subset-Selection--regression
 ### Selecting a model to predict the sales of Toyota Corola
 The goal of this project is to fit a model to understand the sales of Toyota model. Model,Price, Age_08_04, Mfg_Month, Mfg_Year, KM, Fuel_Type, HP, Met_Color, Color, Automatic, CC, Doors, Cylinders, Gears etc are a few of the 39 variables that the data has. It is pre cleaned and the project we will deal with algorithm and the model that fits it the best. We will be using best subset selection to do the same 
 ### Installation
