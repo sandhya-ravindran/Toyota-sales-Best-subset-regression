@@ -4,6 +4,6 @@ The goal of this project is to fit a model to understand the sales of Toyota mod
 ### Installation
 * Download the data
 * Clone this repo to your computer.
-* Download the `data.zip` file.
+* Download the `.zip` file.
 * Extract all of the .zip files you downloaded.
 * Download the .R files and run using R Studio. Alternatively, you can download .ipynb files to view the project. 
